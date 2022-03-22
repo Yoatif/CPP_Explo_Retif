@@ -1,3 +1,4 @@
+
 #include <iostream> /* bibliothèque d'entrée et sortie standard*/
 #include <string>
 
@@ -5,8 +6,8 @@
 
 int main () /* délimite la fonction principale */
 {
-    char Ukraine;
-    char Mali
+    string Ukraine = Ukraine;
+    string Mali = Mali;
 
     std::cout << "Bienvenue chez ETPA travelling." << std::endl;
     std::cout << "les destinations actuelement en promo sont l'Ukraine ou le Mali" << std::endl;
